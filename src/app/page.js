@@ -6,8 +6,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.js</code>
+        <h1>Anil Sir :</h1> <h2>Finally Public URL Dode On Vercel</h2>
+          <code className={styles.code}></code>
         </p>
         <div>
           <a
@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Sir : Finally Public URL Dode On Vercel.</p>
         </a>
 
         <a
